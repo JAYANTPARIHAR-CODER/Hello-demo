@@ -1,2 +1,2 @@
 # Hello-demo
-This is a Demo File
+This is a Demo for Git &amp; Github class.
